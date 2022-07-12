@@ -5,7 +5,7 @@
 openshift-gitops-instance:
   openshiftgitops: 
     argocd:
-      name: openshift-gitops-cntk
+      name: otp-gitops
       spec:
         server:
           autoscale:
